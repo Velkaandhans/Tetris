@@ -1,11 +1,11 @@
-# Complete Instructions for this project!!
+# Complete Instructions for EKS and ArgoCD Setup !!
 
 <div align="center">
   <p align="center">Pipeline Flow</p>
 </div>
 
 ![Alt text](Flow/ArgoCD_Tetris_Job.png)
-# EKS and ArgoCD Setup Guide
+
 
 ## Step 1: Create an EKS Role
 - Navigate to AWS services and select 'EKS-cluster.'
